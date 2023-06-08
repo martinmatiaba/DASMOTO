@@ -1,0 +1,10 @@
+<!DOCTYPEhetml>
+<html>
+<head>
+
+</head>
+<boby>
+<p>salut</p>
+<p>Comment ça va ?</p>
+</boby>
+</html>
